@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/night-mode/static/css/main.b91dc92b.css",
+    "main.js": "/night-mode/static/js/main.2878c502.js",
+    "index.html": "/night-mode/index.html",
+    "main.b91dc92b.css.map": "/night-mode/static/css/main.b91dc92b.css.map",
+    "main.2878c502.js.map": "/night-mode/static/js/main.2878c502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b91dc92b.css",
+    "static/js/main.2878c502.js"
+  ]
+}
